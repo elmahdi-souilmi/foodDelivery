@@ -1,0 +1,55 @@
+body {
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h2 {
+  font-family: "Times New Roman", Times, serif;
+  color: antiquewhite;
+}
+
+#cardHolder {
+  margin: auto;
+  width: 35%;
+  margin-top: 5%;
+}
+
+.mb-5,
+.my-5 {
+  margin-bottom: 1rem !important;
+}
+
+.card {
+  border: none !important;
+  border-radius: 15px !important;
+  background-color: black;
+}
+
+.card-body {
+  color: blanchedalmond !important;
+  background-color: black;
+}
+
+h4 {
+  font-weight: bolder;
+  color: blanchedalmond !important;
+}
+#img {
+  border-radius: 15px;
+}
+#btn {
+  width: 50%;
+}
+
+label {
+  font-weight: bold;
+}
+
+.confirm {
+  color: antiquewhite;
+  background-color: green;
+  border-radius: 10px;
+  width: 220px;
+}
